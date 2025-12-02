@@ -1,0 +1,7 @@
+{
+  "name": "House Garden 3.0",
+  "description": "Aplicativo de gerenciamento de obras focado em qualidade e logística.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
